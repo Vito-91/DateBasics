@@ -1,1 +1,6 @@
 # DateBasics
+Data attuale e manipolazioni semplici, scrivi un programma che mostri la data e l’ora attuali utilizzando LocalDateTime. 
+Poi stampa:
+o La data di domani
+o La data di una settimana fa
+o La data fra 100 giorni
